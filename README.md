@@ -1,4 +1,4 @@
-# Mercado Pago SDK for PHP
+# Mercado Pago SDK for PHP.
 
 [![Latest Stable Version](https://poser.pugx.org/mercadopago/dx-php/v/stable)](https://packagist.org/packages/mercadopago/dx-php)
 [![Total Downloads](https://poser.pugx.org/mercadopago/dx-php/downloads)](https://packagist.org/packages/mercadopago/dx-php)
